@@ -4,15 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/styles.css"> <!-- Link to external CSS file -->
     <title>About Me</title>
 </head>
 
-<!--Header with image width set to auto to avoid distortion-->
-<header>
-    <img src="images/jennifer1.jpg" alt="Instructor Lee headshot" width="auto" height="500">
-</header>
-
-<!-- Navigation -->
+<!-- Navigation moved above header for improved UX -->
 <nav>
     <ul>
         <li><a href="index.html">Home</a></li>
@@ -21,11 +17,19 @@
     </ul>
 </nav>
 
+<!--Header with image width and height removed, style rule added in CSS-->
+<header>
+    <img src="images/jennifer1.jpg" alt="Instructor Lee headshot">
+    <h1>About Instructor Lee</h1>
+        <p>I teach courses related to web development.</p>
+</header>
+
+
+
 <!-- Main content for About Me which includes a div and unordered list-->
 <main>
     <div id="about">
-        <h1>About Instructor Lee</h1>
-        <p>Hi, I'm Instructor Jennifer Lee, a college instructor at Wake Tech Community College. I teach courses related to web development. A few of the coures I currently teach:</p>
+        <h2>Courses I'm Teaching:</h2>
         <ul>
             <li>WEB 110 - Web Fundamentals</li>
             <li>WEB 140 - Web Development Tools</li>
