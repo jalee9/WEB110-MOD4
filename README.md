@@ -1,24 +1,38 @@
-Instructions
+# 🌟 Personal Portfolio Website Project
 
-    Complete the "Consider This: Your Turn" task #1 (Create a Template and Home Page for the Personal Portfolio Website) in Chapter 2 on page 81 of your text. If you have already created a template, just use that to build your Personal Portfolio Website.
-    Complete the "Consider This: Your Turn" task #1 (add images and Links to Your Personal Portfolio Website) in Chapter 3 on page 139 of your text steps 1 through 11. 
+Welcome to your Personal Portfolio Website project! Follow these instructions to create an impressive online portfolio.
 
+## 📚 Instructions
 
-Hints:
+### 1. Create a Template and Home Page
+Complete the "Consider This: Your Turn" task #1 in Chapter 2 (page 81) of your textbook.
+- If you already have a template, use that to build your Personal Portfolio Website.
 
-    Item 2 above builds on item 1. Please complete the steps in order.
-    Save your work anywhere you like on your computer. Make sure your site is portable by using relative paths instead of absolute paths. (See web link in Blackboard on relative and absolute paths).
+### 2. Add Images and Links
+Complete the "Consider This: Your Turn" task #1 in Chapter 3 (page 139) of your textbook, steps 1 through 11.
 
+### Hints:
+- Task 2 builds on Task 1. Complete the steps in order.
+- Save your work anywhere on your computer.
+- Use **relative paths** instead of absolute paths to ensure your site is portable.
+  - See the web link in Blackboard for more on relative and absolute paths.
 
-Deliverables:
+## 📂 Deliverables
 
-    Upload your work to the wcet.waketech.edu server.
-    Be sure to upload any support files such as image files.
-    Submit a clickable URL that points to your .html file in the assignment submission box below.
-    IMPORTANT: always test your assignment submission for proper content and functionality.
+1. **Upload your work** to the `wcet.waketech.edu` server.
+2. **Include support files** such as images.
+3. **Submit a clickable URL** pointing to your `.html` file in the assignment submission box below.
+4. **IMPORTANT:** Always test your assignment submission for proper content and functionality.
 
+## ❗ Important Notes
 
-Please do not email your instructor to review your work before it's due. It's not an equitable or fair request since the same opportunity cannot be extended to everyone in the class. Always review project requirements in the lesson folder as well as the grading rubric before submitting assignments to Blackboard for grading.
+- Please **do not email** your instructor to review your work before it's due. It's not equitable or fair to all students.
+- Always **review project requirements** in the lesson folder and the grading rubric before submitting assignments to Blackboard.
+- **Submission of this assessment** means it is ready for grading. Your instructor may grade projects before the due date.
+- You have **one submission attempt**. Any problems? Notify your instructor immediately.
 
+## 📅 Timeline
+Make sure you manage your time efficiently to complete both tasks and submit your assignment on time.
 
-Submission of this assessment means it is ready for grading. Your instructor may grade projects before the due date. You have one submission attempt. Any problems notify your instructor immediately.
+### Good luck, and happy coding! 🎉
+
